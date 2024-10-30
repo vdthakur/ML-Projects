@@ -11,4 +11,4 @@
 | 4                         | Social Network communities      | Python, Jupyter        | Girvan-Newman, label propagation                            |
 | 5                         | Clustering                      | Python, Jupyter        | K-Means, Bradley-Fayyad-Reina (BFR)                         |
 | 6                         | Streaming Data                  | Python, Jupyter        | Bloom filter, Flajolet Martin, Reservoir Sampling           |
-| Final Project | Hybrid Recommendation System    | Python, Spark        | Improve Recommendation system in HW3 by using model-based and hybrid approaches |
+| Final Project | Hybrid Recommendation System    | Python, Jupyter        | Improve Recommendation system in HW3 by using model-based and hybrid approaches |
