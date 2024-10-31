@@ -1,7 +1,6 @@
 # Machine Learning Repository Table of Contents
 
 
-## 2024 Spring for Varun Thakur
 | Assignments           | Topic                          | Programming         | Concepts                                                            | Data                               | Grades |
 |-----------------------|--------------------------------|---------------------|---------------------------------------------------------------------|------------------------------------|--------|
 | Thakur_Varun_HW1      | KNN Classification             | Python, Jupyter Notebook    | EDA, Classification, KNN                                         | Vertebral Column                   |    100/100    |
