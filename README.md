@@ -1,5 +1,9 @@
 # Machine Learning Repository Table of Contents
 
+This graduate level machine learning course covered supervised and unsupervised learning techniques, regression methods, resampling methods (including cross-validation and bootstrap), decision trees, dimensionality reduction, regularization, clustering, and kernel methods. Additionally, the class delved into advanced concepts such as hidden Markov models and graphical models, as well as neural networks, and deep learning. Below is a description of the projects:
+
+
+
 | Assignments           | Topic                          | Programming             | Concepts                                                            | Data                               |
 |-----------------------|--------------------------------|-------------------------|---------------------------------------------------------------------|------------------------------------|
 | 1      | KNN Classification             | Python, Jupyter Notebook | EDA, Classification, KNN                                            | Vertebral Column                   |
